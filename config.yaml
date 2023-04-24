@@ -60,6 +60,7 @@ contact: 'team@carpentries.org'
 # Order of episodes in your lesson
 episodes: 
 - introduction.Rmd
+- using-python.Rmd
 
 # Information for Learners
 learners: 
