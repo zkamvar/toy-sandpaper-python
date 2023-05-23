@@ -21,12 +21,33 @@ exercises: 2
 
 ```python
 import numpy as np
+```
+
+```{.error}
+Error: ModuleNotFoundError: No module named 'numpy'
+```
+
+```python
 a = np.arange(6)
+```
+
+```{.error}
+Error: NameError: name 'np' is not defined
+```
+
+```python
 a2 = a[np.newaxis, :]
+```
+
+```{.error}
+Error: NameError: name 'a' is not defined
+```
+
+```python
 a2.shape
 ```
 
-```{.output}
-(1, 6)
+```{.error}
+Error: NameError: name 'a2' is not defined
 ```
 
