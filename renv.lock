@@ -104,7 +104,13 @@
       "Package": "cachem",
       "Version": "1.0.7",
       "Source": "Repository",
-      "Repository": "RSPM",
+      "Repository": "CRAN",
+      "RemoteType": "standard",
+      "RemotePkgRef": "cachem",
+      "RemoteRef": "cachem",
+      "RemoteRepos": "https://cloud.r-project.org",
+      "RemotePkgPlatform": "aarch64-apple-darwin20",
+      "RemoteSha": "1.0.7",
       "Requirements": [
         "fastmap",
         "rlang"
@@ -148,7 +154,13 @@
       "Package": "evaluate",
       "Version": "0.20",
       "Source": "Repository",
-      "Repository": "RSPM",
+      "Repository": "CRAN",
+      "RemoteType": "standard",
+      "RemotePkgRef": "evaluate",
+      "RemoteRef": "evaluate",
+      "RemoteRepos": "https://cloud.r-project.org",
+      "RemotePkgPlatform": "aarch64-apple-darwin20",
+      "RemoteSha": "0.20",
       "Requirements": [
         "R",
         "methods"
@@ -354,6 +366,12 @@
       "Version": "0.17.3",
       "Source": "Repository",
       "Repository": "CRAN",
+      "RemoteType": "standard",
+      "RemotePkgRef": "renv",
+      "RemoteRef": "renv",
+      "RemoteRepos": "https://cloud.r-project.org",
+      "RemotePkgPlatform": "aarch64-apple-darwin20",
+      "RemoteSha": "0.17.3",
       "Requirements": [
         "utils"
       ],
@@ -384,7 +402,13 @@
       "Package": "rlang",
       "Version": "1.1.0",
       "Source": "Repository",
-      "Repository": "RSPM",
+      "Repository": "CRAN",
+      "RemoteType": "standard",
+      "RemotePkgRef": "rlang",
+      "RemoteRef": "rlang",
+      "RemoteRepos": "https://cloud.r-project.org",
+      "RemotePkgPlatform": "aarch64-apple-darwin20",
+      "RemoteSha": "1.1.0",
       "Requirements": [
         "R",
         "utils"
@@ -429,7 +453,13 @@
       "Package": "sass",
       "Version": "0.4.5",
       "Source": "Repository",
-      "Repository": "RSPM",
+      "Repository": "CRAN",
+      "RemoteType": "standard",
+      "RemotePkgRef": "sass",
+      "RemoteRef": "sass",
+      "RemoteRepos": "https://cloud.r-project.org",
+      "RemotePkgPlatform": "aarch64-apple-darwin20",
+      "RemoteSha": "0.4.5",
       "Requirements": [
         "R6",
         "fs",
